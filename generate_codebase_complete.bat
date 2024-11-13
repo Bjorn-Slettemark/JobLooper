@@ -1,0 +1,1 @@
+code2prompt \Dev\Jobloop\Joblooper2\Joblooper  --include="*.js, *.html, *.prisma" --output output.md
